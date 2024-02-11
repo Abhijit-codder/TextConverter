@@ -9,12 +9,12 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(45 deg,#010758,#490d61);
-    background-color: #010758;
+    background-color: #D7E4C0;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    color: aqua;
+    color: rgb(142, 108, 67);
 
 
 }
@@ -26,14 +26,14 @@
 
 }
 .main h1 span{
-    color: aquamarine;
+    color: rgb(214, 119, 78);
 }
 textarea{
     width: 600px;
     height: 250px;
-    background: #403d84;
+    background: #B3A398;
     color: #fff;
-    font-size: 15px;
+    font-size: 26px;
     border: 0;
     outline: 0;
     padding: 20px;
@@ -44,7 +44,7 @@ textarea{
 
 }
 textarea::placeholder{
-    font-size: 16px;
+    font-size: 26px;
     color: #ddd;
 }
 .row{
@@ -55,11 +55,11 @@ textarea::placeholder{
 
 }
 button{
-    background: rgba(7, 224, 54, 0.133);
+    background:#a3c690;
     color: #fff;
     font-size: 16px;
     padding: 10px 30px;
-    border-radius: 35px;
+    border-radius: 15px;
     border: 0;
     outline: 0;
     cursor: pointer;
@@ -76,14 +76,16 @@ button img{
 select{
     flex: 1;
     color: #fff;
-    background: #403d84;
+    background: #a2ae81;
+    font-size: 16px;
+    
     height: 40px;
     padding: 0 20;
     outline: 0;
     border: 0;
-    border-radius: 35px;
+    border-radius: 15px;
     appearance: none;
-    background-image: url(download_130839.png )  ;
+    background-image: url(down-arrow_9210411.png )  ;
     background-repeat: no-repeat;
     background-size: 30px;
     
