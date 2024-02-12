@@ -1,9 +1,20 @@
 *{
-    padding: 0;
+    padding: ;
     box-sizing: border-box;
 }
 body{
     background: #BBE2EC;
+}
+.foot-panel-1
+{
+    background-color: #383f3c;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+
 }
 
 .enter

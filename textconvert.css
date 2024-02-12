@@ -4,6 +4,17 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
 }
+.foot-panel-1
+{
+    background-color: #383f3c;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+
+}
 .main
 {
     width: 100%;
